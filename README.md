@@ -1,2 +1,3 @@
 # microservices-poc
-A production grade Cloud Student Management System
+service registry working as discovery server.
+
