@@ -25,7 +25,6 @@
 	</properties>
 
 	<dependencies>
-
 		<!-- Eureka Server -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
